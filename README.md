@@ -1,2 +1,1 @@
-# teszt
-# És egy kis változtatás
+# Test repositry MASTER branch
